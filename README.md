@@ -5,8 +5,9 @@ Documentation of my learning journey through IBM's AI Engineering Professional C
 
 ## Course Track
 1. Machine Learning with Python
-   - Status: Not Started
+   - Status: In Progress
    - Duration: 13 hours
+   - Started: [28 October 2024]
    - Topics:
      - ML algorithms
      - Classification methods
