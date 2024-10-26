@@ -89,10 +89,6 @@ Each course directory contains:
 ## Resources
 - Course Link: [https://www.coursera.org/professional-certificates/ai-engineer]
 
-
-
 ---
-Started: [Start Date]
-Last Updated: [Current Date]
-
-Note: Personal learning repository, course content rights belong to IBM/Coursera.
+Started: [28 October 2024]
+Last Updated: [28 October 2024]
