@@ -2,13 +2,12 @@
 Computer's ability to learn without explicitly programmed
 
 ## Table of Contents
-- [Module 1: Learning Techniques](#module-1-learning-techniques)
-- [Module 2: Another Module Title](#module-2-another-module-title)
-- [Module 3: Yet Another Module](#module-3-yet-another-module)
+- [Module 1: [Introduction to Machine learning](#module-1-introduction-to-machine-learning)
+- [Module 2: [Regression](#module-2-regression)
+- [Module 3: [Classification](#module-3-classification)
 
 ---
 
-<a name="module-1-learning-techniques"></a>
 ## Module 1: Learning Techniques
 
 ### 1. Regression / Estimation
@@ -221,15 +220,17 @@ Computer's ability to learn without explicitly programmed
 
 ---
 
-## Module 2: Another Module Title
+## Module 2: Regression
 - **Definition**: Description for Module 2 here.
 
 [Back to Top](#machine-learning)
 
 ---
 
-## Module 3: Yet Another Module
+## Module 3: Classification
 - **Definition**: Description for Module 3 here.
 
+[Back to Top](#machine-learning)
 
+---
 
