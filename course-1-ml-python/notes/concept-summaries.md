@@ -219,9 +219,12 @@ Computer's ability to learn without explicitly programmed
 
 [Back to Top](#machine-learning)
 
-<a name="module-2-another-module-title"></a>
+---
+
 ## Module 2: Another Module Title
 - **Definition**: Description for Module 2 here.
+
+[Back to Top](#machine-learning)
 
 ---
 
