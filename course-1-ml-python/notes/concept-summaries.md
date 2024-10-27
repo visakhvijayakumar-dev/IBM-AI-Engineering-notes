@@ -1,7 +1,15 @@
 # Machine Learning 
 Computer's ability to learn without explicitly programmed
 
-## Learning techniques
+## Table of Contents
+- [Module 1: Learning Techniques](#module-1-learning-techniques)
+- [Module 2: Another Module Title](#module-2-another-module-title)
+- [Module 3: Yet Another Module](#module-3-yet-another-module)
+
+---
+
+<a name="module-1-learning-techniques"></a>
+## Module 1: Learning Techniques
 
 ### 1. Regression / Estimation
 - **Definition**: Predicting continuous values.
@@ -209,9 +217,16 @@ Computer's ability to learn without explicitly programmed
   - Data visualization and simplification
   - Market segmentation, anomaly detection, recommendation systems
 
+[Back to Top](#machine-learning)
+
+<a name="module-2-another-module-title"></a>
+## Module 2: Another Module Title
+- **Definition**: Description for Module 2 here.
+
 ---
 
-
+## Module 3: Yet Another Module
+- **Definition**: Description for Module 3 here.
 
 
 
