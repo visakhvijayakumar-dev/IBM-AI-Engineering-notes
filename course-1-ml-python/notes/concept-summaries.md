@@ -1,6 +1,8 @@
 # Machine Learning 
 Computer's ability to learn without explicitly programmed
 
+## Learning techniques
+
 ## 1. Regression / Estimation
 - **Definition**: Predicting continuous values.
 - **Examples**:
@@ -48,6 +50,59 @@ Computer's ability to learn without explicitly programmed
 - **Examples**:
   - Movie recommendations on streaming platforms
   - Product suggestions in e-commerce
+
+## Python Libraries for Data Science
+
+### 1. NumPy
+- **Purpose**: Provides support for large, multi-dimensional arrays and matrices.
+- **Key Features**:
+  - n-dimensional array operations
+  - Mathematical functions for operations on arrays
+- **Examples of Use**:
+  - Scientific computing
+  - Data manipulation for machine learning
+
+### 2. SciPy
+- **Purpose**: Builds on NumPy for more advanced computations and scientific functions.
+- **Key Features**:
+  - Signal processing
+  - Optimization and numerical integration
+  - High-performance computations
+- **Examples of Use**:
+  - Image processing
+  - Solving differential equations
+
+### 3. Matplotlib
+- **Purpose**: Visualization library for creating static, animated, and interactive plots.
+- **Key Features**:
+  - 2D plotting capabilities
+  - Wide range of plots: line, bar, scatter, histogram, etc.
+  - Customizable plot styles and colors
+- **Examples of Use**:
+  - Plotting data distributions
+  - Visualizing results of data analysis
+
+### 4. Pandas
+- **Purpose**: Provides data structures and data analysis tools for easy manipulation of structured data.
+- **Key Features**:
+  - DataFrames for handling tabular data
+  - Data cleaning and transformation functions
+  - Time series functionality
+- **Examples of Use**:
+  - Loading and analyzing CSV files
+  - Data wrangling for machine learning models
+
+### 5. Scikit-Learn
+- **Purpose**: A library for machine learning algorithms and data preprocessing tools.
+- **Key Features**:
+  - Collection of algorithms for classification, regression, and clustering
+  - Tools for model selection and evaluation
+  - Preprocessing and feature selection functions
+- **Examples of Use**:
+  - Implementing machine learning models
+  - Training and evaluating classifiers
+
+---
 
 
 
