@@ -196,10 +196,12 @@ Computer's ability to learn without explicitly programmed
   - Since there are no labels, it relies on the data’s inherent structure.
 - **Examples**:
   - **Clustering**: Grouping data into clusters (e.g., customer segmentation).
+  - <img width="250" alt="image" src="https://github.com/user-attachments/assets/1d1b2540-205f-425a-967e-6609121e42f5">
   - **Association**: Finding relationships between data points (e.g., market basket analysis).
   - **Dimensionality Reduction**: Reducing data complexity while retaining structure (e.g., visualizing high-dimensional data).
   - **Density Estimation**: Identifying regions of high data concentration in a dataset (e.g., identifying popular areas in a city).
   - **Market Basket Analysis**: Discovering patterns in transaction data to find products frequently bought together.
+
 - **Applications**:
   - Customer segmentation
   - Anomaly detection
