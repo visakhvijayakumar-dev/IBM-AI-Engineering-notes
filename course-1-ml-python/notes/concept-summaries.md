@@ -1,4 +1,4 @@
-# Machine Learning Concepts
+# Machine Learning 
 Computer's ability to learn without explicitly programmed
 
 ## 1. Regression / Estimation
