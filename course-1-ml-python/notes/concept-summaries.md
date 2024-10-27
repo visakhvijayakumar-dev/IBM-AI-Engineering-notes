@@ -102,6 +102,49 @@ Computer's ability to learn without explicitly programmed
   - Implementing machine learning models
   - Training and evaluating classifiers
 
+    
+## Machine Learning Workflow
+
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/a028336a-4ab5-4631-9b73-9ea5449ae847">
+
+### 1. Data Preprocessing
+- **Definition**: Cleaning and preparing your raw data to make it suitable for model training.
+- **Key Steps**:
+  - Fixing missing values
+  - Removing duplicates
+  - Converting text to numerical data
+- **Importance**: Ensures data quality, which is crucial for accurate model performance.
+
+### 2. Train/Test Split
+- **Definition**: Dividing your data into two parts: one to teach the model (training set) and one to evaluate how well it learned (testing set).
+- **Purpose**: Helps in assessing the model's performance on unseen data, preventing overfitting.
+
+### 3. Algorithm Setup
+- **Definition**: Selecting and configuring the right type of machine learning model for your specific problem.
+- **Examples**:
+  - Linear Regression for predicting continuous values
+  - Decision Trees for classification tasks
+- **Importance**: Choosing the right algorithm is essential for solving different types of problems effectively.
+
+### 4. Model Fitting
+- **Definition**: Training your chosen model using the training data to learn patterns and relationships.
+- **Analogy**: Similar to teaching a student with practice problems.
+- **Outcome**: A trained model that can make predictions on new data.
+
+### 5. Prediction
+- **Definition**: Using your trained model to make predictions on new, unseen data.
+- **Purpose**: Apply the model’s learned knowledge to produce outputs based on new inputs.
+
+### 6. Evaluation
+- **Definition**: Measuring how accurate your model's predictions are by comparing them to actual outcomes.
+- **Common Metrics**:
+  - Accuracy, Precision, Recall for classification
+  - Mean Squared Error (MSE) for regression
+- **Importance**: Provides insights into the model’s performance and highlights areas for improvement.
+
+### 7. Model Export
+- **Definition**: Saving your trained model so you can use it later without re-training
+
 ---
 
 
