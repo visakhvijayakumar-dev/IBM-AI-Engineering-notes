@@ -7,6 +7,8 @@ Computer's ability to learn without explicitly programmed
 - [Module 1: Introduction to Machine Learning](#module-1-introduction-to-machine-learning)
 - [Module 2: Regression](#module-2-regression)
 - [Module 3: Classification](#module-3-classification)
+- [Module 4: Linear Classification](#module-4-linear-classification)
+- [Module 5: Clustering](#module-5-clustering)
 
 ---
 
