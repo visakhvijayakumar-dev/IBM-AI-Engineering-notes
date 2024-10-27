@@ -53,6 +53,8 @@ Computer's ability to learn without explicitly programmed
 
 ## Python Libraries for Data Science
 
+<img width="1532" alt="image" src="https://github.com/user-attachments/assets/416a2067-7386-424a-b6d0-e3ea411ecdb5">
+
 ### 1. NumPy
 - **Purpose**: Provides support for large, multi-dimensional arrays and matrices.
 - **Key Features**:
@@ -106,7 +108,8 @@ Computer's ability to learn without explicitly programmed
     
 ## Machine Learning Workflow
 
-<img width="860" alt="image" src="https://github.com/user-attachments/assets/a028336a-4ab5-4631-9b73-9ea5449ae847">
+<img width="1550" alt="image" src="https://github.com/user-attachments/assets/8a2b7e43-bbc4-487f-8bc9-7177fec44b65">
+
 
 ### 1. Data Preprocessing
 - **Definition**: Cleaning and preparing your raw data to make it suitable for model training.
