@@ -58,7 +58,18 @@ ai-engineering-journey/
 ├── resources/
 └── practice-projects/
 ```
-
+```
+course-section/
+├── notes/
+│   ├── concept-summaries.md (from tablet)
+│   └── diagrams/ (scanned/photographed)
+├── code/
+│   ├── examples/
+│   └── exercises/
+└── projects/
+    └── implementations/
+```
+    
 ## Learning Goals
 - Master AI/ML fundamentals
 - Implement Deep Learning models
