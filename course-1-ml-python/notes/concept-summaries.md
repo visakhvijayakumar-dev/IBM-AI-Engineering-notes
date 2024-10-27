@@ -1,14 +1,16 @@
 # Machine Learning 
 Computer's ability to learn without explicitly programmed
+![image](https://github.com/user-attachments/assets/64e85cda-b8ee-4822-871b-b3b86dae8d90)
+
 
 ## Table of Contents
-- [Module 1: Introduction to Machine learning](#module-1-introduction-to-machine-learning)
+- [Module 1: Introduction to Machine Learning](#module-1-introduction-to-machine-learning)
 - [Module 2: Regression](#module-2-regression)
 - [Module 3: Classification](#module-3-classification)
 
 ---
 
-## Module 1: Learning Techniques
+## Module 1: Introduction to Machine Learning
 
 ### 1. Regression / Estimation
 - **Definition**: Predicting continuous values.
