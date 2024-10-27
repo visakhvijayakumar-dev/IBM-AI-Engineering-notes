@@ -104,12 +104,10 @@ Computer's ability to learn without explicitly programmed
   - Implementing machine learning models
   - Training and evaluating classifiers
   - ``` ex: from sklearn import preprocessing ```
-
     
 ## Machine Learning Workflow
 
 <img width="1550" alt="image" src="https://github.com/user-attachments/assets/8a2b7e43-bbc4-487f-8bc9-7177fec44b65">
-
 
 ### 1. Data Preprocessing
 - **Definition**: Cleaning and preparing your raw data to make it suitable for model training.
@@ -148,6 +146,66 @@ Computer's ability to learn without explicitly programmed
 
 ### 7. Model Export
 - **Definition**: Saving your trained model so you can use it later without re-training
+
+## Supervised vs Unsupervised Learning
+
+### 1. Supervised Learning
+ <img width="832" alt="image" src="https://github.com/user-attachments/assets/c52bd1c5-9f50-404d-9963-2ef238ff9e6d">
+
+- **Definition**: A type of machine learning where the model is trained using labeled data, meaning each input has a corresponding output.
+- **Simple Explanation**: Think of it like learning with a teacher:
+  - You have answers (labels) to learn from, so you know when you’re correct or incorrect.
+  - **Example 1: Teaching a child about animals**:
+    - You show pictures (input) and tell them "this is a cat," "this is a dog" (labels).
+    - The child learns to identify animals based on these labeled examples.
+  - **Example 2: House price prediction**:
+    - You have data about houses (features like size, location, number of bedrooms) AND their prices.
+    - Price is your label (answer) that the model learns from.
+    - The model then predicts prices for new houses based on these learned examples.
+- **How It Works**:
+  - The model learns the relationship between inputs and outputs by mapping labeled data.
+  - It then makes predictions based on this learned mapping.
+- **Examples**:
+  - **Regression**: Predicting continuous values (e.g., house prices)
+  - **Classification**: Categorizing data into classes (e.g., email spam detection)
+   <img width="732" alt="image" src="https://github.com/user-attachments/assets/08fdf6e3-42e1-4bcd-8c4d-9aecffb61d3c">
+
+- **Applications**:
+  - Fraud detection, sentiment analysis, diagnostics in healthcare
+  
+
+
+### 2. Unsupervised Learning
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/99931bb9-7714-4324-a6da-d1ae7302cd10">
+
+- **Definition**: A type of machine learning where the model is trained on data without labeled outcomes. The model identifies patterns or groupings in the data on its own.
+- **Simple Explanation**: Think of it like organizing without instructions:
+  - There are no answers or labels provided to guide the process.
+  - **Example 1: Organizing your closet**:
+    - Nobody tells you how to group clothes.
+    - You naturally group similar items: all shirts together, all pants together.
+    - You decide the groups based on similarities without predefined categories.
+  - **Example 2: Customer grouping in a store**:
+    - You have data on customer shopping habits, but there are no pre-defined groups.
+    - The system finds patterns on its own:
+      - **Group 1**: People who buy mostly electronics.
+      - **Group 2**: People who buy mostly groceries.
+    - The groups weren’t labeled beforehand; the system identified these patterns based on the data.
+- **How It Works**:
+  - The model seeks to find hidden structures within the data by grouping or clustering similar data points.
+  - Since there are no labels, it relies on the data’s inherent structure.
+- **Examples**:
+  - **Clustering**: Grouping data into clusters (e.g., customer segmentation).
+  - **Association**: Finding relationships between data points (e.g., market basket analysis).
+  - **Dimensionality Reduction**: Reducing data complexity while retaining structure (e.g., visualizing high-dimensional data).
+  - **Density Estimation**: Identifying regions of high data concentration in a dataset (e.g., identifying popular areas in a city).
+  - **Market Basket Analysis**: Discovering patterns in transaction data to find products frequently bought together.
+- **Applications**:
+  - Customer segmentation
+  - Anomaly detection
+  - Recommendation systems
+  - Data visualization and simplification
+  - Market segmentation, anomaly detection, recommendation systems
 
 ---
 
