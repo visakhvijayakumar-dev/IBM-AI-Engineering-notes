@@ -2,9 +2,9 @@
 Computer's ability to learn without explicitly programmed
 
 ## Table of Contents
-- [Module 1: [Introduction to Machine learning](#module-1-introduction-to-machine-learning)
-- [Module 2: [Regression](#module-2-regression)
-- [Module 3: [Classification](#module-3-classification)
+- [Module 1: Introduction to Machine learning](#module-1-introduction-to-machine-learning)
+- [Module 2: Regression](#module-2-regression)
+- [Module 3: Classification](#module-3-classification)
 
 ---
 
