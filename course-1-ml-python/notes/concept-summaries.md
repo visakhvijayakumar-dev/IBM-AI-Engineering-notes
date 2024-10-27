@@ -225,13 +225,138 @@ Computer's ability to learn without explicitly programmed
 ---
 
 ## Module 2: Regression
-- **Definition**: Description for Module 2 here.
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a9a29d17-ff8d-4826-8edb-e494f871e09c">
+
+### Overview
+
+In simple terms, in regression:
+- **y** is the predicted outcome or target variable we want to estimate or predict. It depends on the input variable **x** and the relationship (linear or nonlinear) between **x** and **y**.
+
+### Linear Regression
+In linear regression:
+- **y** changes in a straight-line relationship with **x**. For example, if we are predicting someone's income (**y**) based on years of experience (**x**), a linear model assumes that income increases or decreases by a consistent amount for each additional year of experience.
+
+**Formula**: \( y = mx + c \)
+- **m** is the slope (the rate of change in **y** for each unit change in **x**).
+- **c** is the intercept (where the line crosses the y-axis).
+
+### Nonlinear Regression
+In nonlinear regression:
+- **y** and **x** don’t follow a straight line. Instead, the relationship could be curved or follow a complex shape. This is useful when increases in **y** are not consistent with changes in **x**. For instance, growth rates in biology or finance often follow nonlinear patterns, where growth accelerates or slows down based on different stages.
+
+### Summary
+- **y** is the value we want to predict, estimated based on the observed patterns between it and **x**.
+- **Regression** predicts continuous/numerical output values.
+- It’s a part of supervised learning, where we have labeled data.
+- **Purpose**: Used to understand the relationship between dependent (**Y**) and independent variables (**X**).
+
+### Key Concepts
+
+1. **Variables in Regression**
+   - **Dependent Variable (Y)**
+     - Also called the target or output variable.
+     - It’s what we want to predict (e.g., house price).
+     - Always a continuous numerical value.
+
+   - **Independent Variables (X)**
+     - Also called features or input variables.
+     - Used to make predictions.
+     - Can be numerical or categorical.
+
+2. **Types of Regression**
+
+   #### Simple Regression
+   - **Simple Linear Regression**
+     - Involves one independent variable (**X**) and one dependent variable (**Y**).
+     - Assumes a linear relationship: \( Y = mX + c \).
+   - **Simple Non-Linear Regression**
+     - Involves one independent variable (**X**) and one dependent variable (**Y**).
+     - The relationship between **X** and **Y** is non-linear (e.g., curved or exponential).
+
+   #### Multiple Regression
+   - **Multiple Linear Regression**
+     - Involves multiple independent variables.
+     - One dependent variable.
+     - Formula: \( Y = m₁X₁ + m₂X₂ + ... + c \).
+
+### Common Applications
+1. **Business**
+   - Sales prediction
+   - Price optimization
+   - Risk assessment
+
+2. **Real Estate**
+   - House price prediction
+   - Rental value estimation
+
+3. **Science/Research**
+   - Weather forecasting
+   - Population growth prediction
+   - CO₂ emission estimation
+
+### Evaluation Metrics
+1. **R-squared (R²)**
+   - Measures goodness of fit
+   - Range: 0 to 1
+   - Higher value = better fit
+
+2. **Mean Squared Error (MSE)**
+   - Average squared difference between predicted and actual values
+   - Lower value = better model
+
+3. **Root Mean Squared Error (RMSE)**
+   - Square root of MSE
+   - In same units as dependent variable
+
+### Assumptions
+1. **Linearity**
+   - Linear relationship between X and Y
+
+2. **Independence**
+   - Observations are independent
+
+3. **Normality**
+   - Residuals are normally distributed
+
+4. **Homoscedasticity**
+   - Constant variance in residuals
+
+### Model Building Steps
+1. **Data Collection**
+   - Gather relevant data
+   - Ensure quality and quantity
+
+2. **Data Preprocessing**
+   - Handle missing values
+   - Feature scaling
+   - Outlier detection
+
+3. **Model Training**
+   - Split data (train/test)
+   - Fit model on training data
+   - Validate assumptions
+
+4. **Model Evaluation**
+   - Use metrics (R², MSE, RMSE)
+   - Check prediction accuracy
 
 [Back to Top](#machine-learning)
 
 ---
 
 ## Module 3: Classification
+- **Definition**: Description for Module 3 here.
+
+[Back to Top](#machine-learning)
+
+---
+## Module 4: Linear Classification
+- **Definition**: Description for Module 3 here.
+
+[Back to Top](#machine-learning)
+
+---
+## Module 5: Clustering
 - **Definition**: Description for Module 3 here.
 
 [Back to Top](#machine-learning)
